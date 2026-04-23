@@ -1,0 +1,13 @@
+[package]
+name = "tuisics"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ratatui = "0.28"
+crossterm = "0.25"
+serde = "1.0"
+rand = "0.8"
+thiserror = "1.0"
+anyhow = "1.0"
+tracing = "0.1"
